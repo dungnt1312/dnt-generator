@@ -1,7 +1,7 @@
 {
-    "name": "infyomlabs/laravel-generator",
+    "name": "dungnt1312/laravel-generator",
     "type": "library",
-    "description": "InfyOm Laravel Generator",
+    "description": "Further development from UpInfyOm Laravel Generator https://github.com/InfyOmLabs/laravel-generator",
     "keywords": [
         "laravel",
         "api",
